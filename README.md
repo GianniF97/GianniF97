@@ -36,10 +36,6 @@ Estudiante avanzado de **Analista de Sistemas** centrado en el desarrollo de apl
     Sistema a medida para el control de materia prima, gestión de inventario en tiempo real, órdenes de corte y cubicaje volumétrico.  
     `Python` • `SQL` • `Streamlit` / `Flask`
 
-*   **Sistema de Control de Estacionamiento**  
-    Aplicación web para la administración integral de vehículos, cálculo dinámico de tiempos, sectores y emisión de tickets.  
-    `PHP` • `MySQL` • `JavaScript`
-
 ---
 
 ### 📊 Estadísticas
