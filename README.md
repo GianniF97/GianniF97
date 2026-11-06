@@ -41,7 +41,7 @@ Estudiante avanzado de **Analista de Sistemas** centrado en el desarrollo de apl
 ### 📊 Estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GianniF97&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=GianniF97&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GianniF97&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
